@@ -1,5 +1,3 @@
-//Written by Michael Simarta
-//With the help of Bernice Chen
 //list.c file that implements all functions declared in list.h
 //implement the median() function here
  
