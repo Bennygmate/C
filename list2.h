@@ -1,5 +1,3 @@
-//Written by Michael Simarta
-//With the help of Bernice Chen
 //header file for a Linked List structure
 //contains functions that can be implemented on a Linked List
  
