@@ -1,5 +1,3 @@
-// By Benjamin Cheung, z3460693
-// Tue-Sitar, Andrew Shellshear
 // 26/05/2016
 // Linked lists 
 
