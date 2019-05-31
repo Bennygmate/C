@@ -1,10 +1,7 @@
 //
-//  COMP1927 Assignment 1 - Vlad: the memory allocator
+//  Vlad: the memory allocator
 //  allocator.c ... implementation
 //
-//  Created by Liam O'Connor on 18/07/12.
-//  Modified by John Shepherd in August 2014, August 2015
-//  Copyright (c) 2012-2015 UNSW. All rights reserved.
 //
 
 #include "allocator.h"
