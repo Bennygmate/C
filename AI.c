@@ -1,5 +1,5 @@
 /*
- *  Written by James Treloar and Benjamin Cheung
+ *  
  */
 
 #include <stdio.h>
