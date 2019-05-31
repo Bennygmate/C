@@ -1,6 +1,4 @@
 // crawl.c ... build a graph of part of the web
-// Written by John Shepherd, September 2015
-// Uses the cURL library and functions by Vincent Sanders <vince@kyllikki.org>
 
 #include <stdlib.h>
 #include <stdio.h>
