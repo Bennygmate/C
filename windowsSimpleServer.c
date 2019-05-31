@@ -1,12 +1,5 @@
 /*
 *  windowsSimpleServer.c
-*
-*  Created by Richard Buckland on 28/01/11, modified by various
-*  in 2013
-*  Share freely Creative Commons SA-BY-NC 3.0.
-*
-*  Modified by Declan "DXsmiley" McDonnell on the 28/03/15
-*
 *  Compiling with gcc:
 *     gcc -Wall -Werror -O1 -o windowsSimpleServer windowsSimpleServer.c -lws2_32
 *
