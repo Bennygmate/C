@@ -3,9 +3,6 @@
  *  create a 512x512 BMP of a chessboard, with user specified size (in pixels)
  *  of the black and white squares on the board.  bottom right square must be white.
  *
- *  Created by Richard Buckland on 14/04/11, edited 5/4/14
- *  Licensed under Creative Commons BY 3.0.
- *
  */
 #include <stdio.h>
 #include <stdlib.h>
