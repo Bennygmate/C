@@ -1,13 +1,8 @@
 // Starting date: 15 April 2016
-// By Justin d'Ettorre (z5117490) and Benjamin Cheung (z3460693)
 
 /*
  *  bmpServer.c
- *  1917 serve that 3x3 bmp from lab3 Image activity
  *
- *  Created by Tim Lambert on 02/04/12.
- *  Containing code created by Richard Buckland on 28/01/11.
- *  Copyright 2012 Licensed under Creative Commons SA-BY-NC 3.0. 
  *
  */
 
