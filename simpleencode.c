@@ -4,8 +4,6 @@
  *  reads in a permutation of the alphabet then encodes
  *  lower case letters using that permutation
  *  module 4 template code you asked for - might need some cleaning up...
-*
- *  Created by Julian Saknussemm on 11/09/1752
  *  Licensed under Creative Commons BY 3.0.
  *
  */
