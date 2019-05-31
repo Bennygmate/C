@@ -1,5 +1,3 @@
-// By: Benjamin Cheung, z3460693
-// Tues-12 - Sitar, tutor Andrew Shellshear
 // 20/04/2016
 //This program takes in a string, and returns a pointer to that string containing that string reversed
 
