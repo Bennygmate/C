@@ -1,5 +1,3 @@
-//Written by Michael Simarta
-//With the help of Bernice Chen
 //List2.c file that implements all functions declared in List2.h
 //implement the removeUpperCase() functions here
  
