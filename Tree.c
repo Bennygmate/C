@@ -1,5 +1,4 @@
 // Tree.h ... implementation of binary search tree ADT
-// Written by John Shepherd, March 2013
 
 #include <stdlib.h>
 #include <stdio.h>
