@@ -1,10 +1,3 @@
-//
-// COMP1927 Assignment 1 - Memory allocator test driver
-// vlad.c ... test the memory allocator
-//
-// Written by John Shepherd, August 2014
-// Modified by John Shepherd, August 2015
-
 #include <stdio.h>
 #include <assert.h>
 #include <unistd.h>
