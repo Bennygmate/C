@@ -1,7 +1,4 @@
 // cross.c
-// 1917 final exam 2014s1
-// part P Q1
-// 15 Marks
 #include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
